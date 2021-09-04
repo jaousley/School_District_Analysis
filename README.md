@@ -20,21 +20,13 @@ With and without the ninth graders’ math and reading scores in the analysis, T
 
 ### How does replacing the ninth-grade scores affect the following:
 
--Math and reading scores by grade
+-Math and reading scores by grade: The only difference was “Nan” being shown for the ninth-grade scores. All of the averages were split by school and grade. Had the averages been split by grade across the entire district instead of specific schools there would have been an affect. 
 
-The only difference was “Nan” being shown for the ninth-grade scores. All of the averages were split by school and grade. Had the averages been split by grade across the entire district instead of specific schools there would have been an affect. 
+-Scores by school spending: No affect
 
--Scores by school spending
+-Scores by school size: No affect
 
-No affect
-
--Scores by school size
-
-No affect
-
--Scores by school type 
-
-No affect
+-Scores by school type: No affect
 
 ## Summary: 
 
