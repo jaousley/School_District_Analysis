@@ -6,19 +6,19 @@ The purpose of this project was to analyze a school district focusing on math an
 
 ## Results
 
-•	How is the district summary affected?
+### How is the district summary affected?
 
 The district summary did not show a significant change when the Thomas High School ninth graders had their reading and math scores replaced with NaN. The overall scores and percent passing for each category changed by 0.1% at the most. 
 
-•	How is the school summary affected?
+### How is the school summary affected?
 
 Initially Thomas High School showed 90.94% for overall passing percentage. Once the ninth-grade scores were removed the overall passing percentage dropped to 90.63%. Still not a significant change so far. 
 
-•	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 With and without the ninth graders’ math and reading scores in the analysis, Thomas High School comes second in the top five performing schools 
 
-•	How does replacing the ninth-grade scores affect the following:
+### How does replacing the ninth-grade scores affect the following:
 
 -Math and reading scores by grade
 
